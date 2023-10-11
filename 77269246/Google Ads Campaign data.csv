@@ -1,0 +1,10 @@
+Month,Campaign,Transactions,Revenue,Clicks,Cost,Conversion Rate,ROAS,CPConversions,Cost/Revenue
+Sep 2023,Search - Brand - US,1,442.56,205,$89.49,2.00%,494.54%,89.49,$0.20
+Sep 2023,Display - Commercial - Audiences - US,1,76.29,179,$142.89,2.13%,53.39%,$142.89,$1.87
+Sep 2023,Search - Generic ,4,160.41,268,$141.31,2.38%,113.52%,$35.33,$0.88
+Aug 2023,Search - Brand - US,4,162.98,261,$152.92,1.50%,106.58%,$38.23,$0.94
+Aug 2023,Display - Commercial - Audiences - US,3,461.78,191,$135.25,1.98%,341.43%,$45.08,$0.29
+Aug 2023,Search - Generic ,2,248.77,468,$128.89,2.16%,193.01%,$64.45,$0.52
+Jul 2023,Search - Brand - US,1,431.23,402,$106.33,1.84%,405.56%,$106.33,$0.25
+Jul 2023,Display - Commercial - Audiences - US,5,493.66,353,$183.72,1.93%,268.70%,$36.74,$0.37
+Jul 2023,Search - Generic ,3,360.15,430,$132.58,2.21%,271.65%,$44.19,$0.37
